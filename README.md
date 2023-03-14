@@ -1,5 +1,5 @@
 # **Maddie Redpath**
-* [Hometown](hometown.md)
+* [Hometown](https://github.com/maddieredpath/hello-world1.git)
 * [Family]
 * [Hobbies]
 * [Sorority]
