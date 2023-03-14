@@ -1,5 +1,5 @@
 # **Maddie Redpath**
-* [Hometown](Hometown)
+* [Hometown](DownersGrove)
 * [Family]
 * [Hobbies]
 * [Sorority]
