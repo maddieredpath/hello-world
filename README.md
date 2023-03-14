@@ -1,5 +1,5 @@
 # **Maddie Redpath**
-* [Hometown](https://github.com/maddieredpath/hello-world/pull/2#issue-1623992027)
+* [Hometown](Hometown)
 * [Family]
 * [Hobbies]
 * [Sorority]
